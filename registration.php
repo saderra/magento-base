@@ -6,4 +6,4 @@
 
 use \Magento\Framework\Component\ComponentRegistrar;
 
-ComponentRegistrar::register(ComponentRegistrar::THEME, 'frontend/Saderra/base', __DIR__);
+ComponentRegistrar::register(ComponentRegistrar::THEME, 'frontend/SDIO/base', __DIR__);
